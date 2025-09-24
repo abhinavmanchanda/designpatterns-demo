@@ -1,4 +1,4 @@
-package org.designpatterns;
+package org.designpatterns.coffee;
 
 public class CoffeeMaker {
 
